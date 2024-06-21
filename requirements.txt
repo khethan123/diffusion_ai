@@ -1,0 +1,17 @@
+torch
+diffusers
+einops
+matplotlib
+numpy
+pillow
+tqdm
+timm
+scipy
+numpy
+fastai 
+fastcore 
+accelerate 
+datasets 
+torcheval 
+diffusers 
+ffmpeg-python
