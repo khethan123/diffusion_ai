@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you use this library or the any part of the course content, please cite it using these metadata.
+title: Practical Deep Learning for Coders
+abstract: This course provides comprehensive coverage of deep learning techniques, including Stable Diffusion and its variants, along with practical implementation in Python and PyTorch.
+authors:
+  - family-names: Howard
+    given-names: Jeremy
+  - family-names: Whitaker
+    given-names: Jonathan
+  - family-names: Abraham
+    given-names: Tanishq
+date-released: "2024-06-12"  # this is the date when I completed the course
+identifiers:
+  - description: Practical Deep Learning for Coders course materials
+    type: url
+    value: "https://course.fast.ai/Lessons/part2.html"
+license: Apache-2.0
+repository-code: "https://github.com/fastai/course22p2"
