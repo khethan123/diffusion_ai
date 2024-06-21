@@ -4,7 +4,7 @@
 
 Welcome to `diffusion_ai`! This small library is the result of my learning journey from the [Practical Deep Learning for Coders](https://course.fast.ai/Lessons/part2.html) course. This course, created by Jeremy Howard, Jonathan Whitaker, and Tanishq Abraham, covers the Stable Diffusion algorithm and its variants from scratch. Using this course I deepend my understanding of diffusion models and even implemented them on my own. So can you by using this library.
 
-### Predicted Images and Videos From 
+## Predicted Images and Videos
 
 original image
 ![original_dataset](https://github.com/khethan123/diffusion_ai/assets/100506743/7a563970-9d93-4dff-830f-bd5727d3e5b1)
@@ -38,10 +38,6 @@ To run `diffusion_ai`, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-
-
-https://github.com/khethan123/diffusion_ai/assets/100506743/91376e88-b506-4991-8fcc-54d1efc45241
-
 
 3. **Follow the Jupyter Notebook Tutorials**:
    Explore the tutorials to implement DDPM, DDIM, Unet, timestep embeddings, class-conditioned outputs, and training with VAE latents.
